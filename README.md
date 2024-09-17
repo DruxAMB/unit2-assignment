@@ -108,5 +108,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For further details, refer to the comments in the source code or reach out with questions.
 
 ```
-
-This documentation provides a clear overview of the project, instructions for running it, and detailed explanations of the code. You can adjust the URLs and any specific details as needed.
